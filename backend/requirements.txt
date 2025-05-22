@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg              # PostgreSQL драйвер
+alembic              # миграции БД
+python-jose[cryptography]  # для JWT
+passlib[bcrypt]
+websockets
